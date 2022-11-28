@@ -1,0 +1,25 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: roboto;
+    font-size: 12px;
+  }
+  span{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 130px;
+    padding-right: 130px;
+    background-color: black;
+    color: white;
+  }
+  ul{
+    list-style: square;
+  }
+  form{
+    
+    padding: 20px 10px 10px 10px ;
+    border: 1px solid black;
+    font-family: roboto;
+    color: white;
+  }
