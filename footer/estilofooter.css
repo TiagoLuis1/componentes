@@ -9,7 +9,7 @@ body {
 
 .footer {
     width: 100%;
-    background-color: rgb(35, 55, 107);
+    background-color: #000000;
     color: white;
     display: flex;
     justify-content: center;
@@ -34,7 +34,7 @@ body {
     min-width: 100px;
     min-height: 100px;
     border-radius: 50%;
-    background: rgb(18, 29, 56);
+    background: rgb(255, 255, 255);
 }
 
 .footer-text {
@@ -60,7 +60,7 @@ body {
 }
 
 .footer-item:hover {
-    background: rgb(18, 29, 56);
+    background: #ffffff;
 }
 
 
